@@ -1,0 +1,34 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "firecloud-v1",
+          "appId": "1:654641458495:android:2296817afec87962ad778a",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "firecloud-v1",
+          "configurations": {
+            "android": "1:654641458495:android:2296817afec87962ad778a",
+            "ios": "1:654641458495:ios:5c68efb24798a8acad778a",
+            "web": "1:654641458495:web:a4ce795cf89a67c4ad778a"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  },
+  "storage": {
+    "rules": "storage.rules"
+  }
+}

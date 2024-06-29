@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "654641458495",
+    "project_id": "firecloud-v1",
+    "storage_bucket": "firecloud-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654641458495:android:2296817afec87962ad778a",
+        "android_client_info": {
+          "package_name": "dev.nagarajmh.firecloud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx3YsNjhRZmEEEA7xBDvl7Y8vDJZhCptk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

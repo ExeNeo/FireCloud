@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "default": "firecloud-v1",
+    "beta4": "cloud-v4",
+    "firecloud": "firecloud-v1"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
